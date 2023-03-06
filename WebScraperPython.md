@@ -1,9 +1,9 @@
 # Web Scraper
 ####
-This is the lab work in week6(https://git.arts.ac.uk/mtanska/coding-two-23/blob/main/2023_02_15_coding_two.pdf) which request us to build a simple webscraper to scrapes documents from internet and creates summaries. I built a webscraper which scrapes documents from Taiwanese online shopping sites to record the summary of the link.
+This is the labwork for week six, in which I developed a simple webscraper to collect data from an online shopping platform in Taiwan. The website is https://ecshweb.pchome.com.tw/search/v3.3/?q=%E6%96%87%E9%9D%92&scope=all. The webscraper collected the product names and prices from this page. Webscraping has a wide range of applications, and I hope to use it in my future assignments or work. My academic essay topic is "An analysis of the potential for curriculum innovation through the integration of hands-on learning with digital technology for preschoolers". I plan to scrape some technology learning-related websites, such as EdSurge, to obtain news summaries and understand the latest trends and applications in educational technology.
 
 # Images
-![Screenshot of my Jupyter Notebook]([https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/webscraperScreenshot.jpg])
+![Screenshot of my Jupyter Notebook](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/webscraperScreenshot.jpg)
 
 # Code
 ```
