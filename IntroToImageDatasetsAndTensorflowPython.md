@@ -1,6 +1,7 @@
 # Image Datasets And Tensorflow
 
-
+####
+In this session, I have acquired the skills to adjust various properties of digital images, including brightness, contrast, saturation, size, and rotation. Such image adjustments are crucial for enabling computers to recognize images or objects more accurately, thus expanding their practical applications. The ability to adjust images can be particularly useful in industries such as movies and gaming, where adding special effects can enhance the dramatic impact of scenes and make them more visually appealing. Moreover, computer graphics can also be applied to innovative artworks. One example of this is "The Treachery of Sanctuary" project by Chris Milk, which utilizes both computer graphics and interactive technology to create a transformative experience exploring the themes of birth, death, and transfiguration. This project uses projections of the participants' own bodies to unlock a new artistic language, showcasing the creative potential of computer graphics.
 
 # Images
 ![Screenshot of my Jupyter Notebook](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/screenshotOfTenserflow.jpg)
