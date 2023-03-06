@@ -1,4 +1,7 @@
-# inheritance
+# Inheritance
+
+# Image
+![Screenshot of my Xcode](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/%E6%88%AA%E5%9C%96%202023-03-06%2023.19.28.png)
 
 # Code
 ```C++
