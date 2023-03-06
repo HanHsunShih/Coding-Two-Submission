@@ -6,7 +6,7 @@ This is the labwork for week six, in which I developed a simple webscraper to co
 ![Screenshot of my Jupyter Notebook](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/webscraperScreenshot.jpg)
 
 # Code
-```
+```Python
 import requests
 from bs4 import BeautifulSoup
 import json
