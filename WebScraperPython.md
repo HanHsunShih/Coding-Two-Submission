@@ -3,6 +3,7 @@
 This is the lab work in week6(https://git.arts.ac.uk/mtanska/coding-two-23/blob/main/2023_02_15_coding_two.pdf) which request us to build a simple webscraper to scrapes documents from internet and creates summaries. I built a webscraper which scrapes documents from Taiwanese online shopping sites to record the summary of the link.
 
 # Images
+https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/webscraperScreenshot.jpg
 
 # Code
 ```
