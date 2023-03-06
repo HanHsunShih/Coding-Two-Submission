@@ -7,7 +7,7 @@ In this session, I have acquired the skills to adjust various properties of digi
 ![Screenshot of my Jupyter Notebook](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/screenshotOfTenserflow.jpg)
 
 # Code
-```
+```Python
 import os
 import numpy as np
 from PIL import Image
