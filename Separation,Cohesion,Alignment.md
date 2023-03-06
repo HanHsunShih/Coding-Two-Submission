@@ -8,7 +8,7 @@ https://youtu.be/pD3m2YlsPzA
 
 # Code
 
-```
+```C++
 import { setRootOrigin, draw, initStage } from './libs/displayUtils';
 import { rng, cg } from './libs/cgUtils';
 import { dialog } from './libs/dialogUtils';
