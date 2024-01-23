@@ -2,8 +2,7 @@
 include lab works*5 and final project
 
 ### [Final Project:](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/Final%20Project.md) 
-Tool: OpenFrameworks
-Programming Language: C++
+Tool: OpenFrameworks, Programming Language: C++
 
 ### [Polymorphism:](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/Polymorphism.md)
 Programming Language: C++
