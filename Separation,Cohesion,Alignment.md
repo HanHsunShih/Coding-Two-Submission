@@ -6,9 +6,9 @@ I have developed a simulation of a group seagulls flying above the ocean. The mo
 ####
 https://youtu.be/pD3m2YlsPzA
 
-# Code
+# Code Javascript
 
-```C++
+```Javascript
 import { setRootOrigin, draw, initStage } from './libs/displayUtils';
 import { rng, cg } from './libs/cgUtils';
 import { dialog } from './libs/dialogUtils';
