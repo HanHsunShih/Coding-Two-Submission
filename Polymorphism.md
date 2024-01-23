@@ -3,7 +3,7 @@
 # Image
 ![Screenshot of my Xcode](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/%E6%88%AA%E5%9C%96%202023-03-07%2000.09.07.png)
 
-# Code
+# Code C++
 ```C++
 //
 //  main.cpp
