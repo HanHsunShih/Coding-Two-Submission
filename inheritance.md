@@ -1,4 +1,9 @@
 # Inheritance
+### YouTubeChannel Class (Base Class): 
+properties: Name, OwnerName, SubscribersCount, PublishedVideoTitles. 
+Methods: Subscribe, Unsubscribe, PublishVideo, and GetInfo.
+### CookingYouTubeChannel Class (Derived Class): 
+It inherits the properties and methods of the YouTubeChannel class, but it also has its own unique method, Practice.
 
 # Image
 ![Screenshot of my Xcode](https://github.com/HanHsunShih/Coding-Two-Submission/blob/main/%E6%88%AA%E5%9C%96%202023-03-06%2023.19.28.png)
